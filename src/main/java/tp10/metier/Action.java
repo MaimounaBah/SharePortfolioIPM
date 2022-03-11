@@ -9,7 +9,7 @@ package tp10.metier;
  * @author perussel
  */
 public abstract class Action {
-
+//
     private String nom;
 
     /**
